@@ -30,4 +30,4 @@ The iterative naive KMeans (slow version but, giving good intuition beheind the 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif" width="400" height="400"/>
 
-[source](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
+[source](https://commons.wikimedia.org/wiki/File:K-means_convergence.gif)
