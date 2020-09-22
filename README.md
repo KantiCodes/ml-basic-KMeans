@@ -1,7 +1,7 @@
 # ml-KMeans-usage
 
 # Pre-face
-Hoping that my work might help beginners better understand what machine learning is and what can we do with it I decided to put a small explanantion of ML techniques types before each ml project.  
+Hoping that my work might help beginners better understand what machine learning is and what can we do with it I decided to put a small explanantion of ML techniques types before some of my machine learning projects.  
 I hope that after reading following definition it will be easier to understand what is it that I'm trying to show and how it's done.
 
 ***Machine learning problems can be approached using 3 different methods.***
