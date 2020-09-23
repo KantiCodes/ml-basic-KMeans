@@ -33,5 +33,5 @@ The iterative naive KMeans (slow version but, giving good intuition behind the a
 [source](https://commons.wikimedia.org/wiki/File:K-means_convergence.gif)
 
 # Requirements
-sklearn
+sklearn  
 matplotlib
