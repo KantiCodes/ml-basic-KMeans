@@ -1,4 +1,4 @@
-# ml-tutorial-KMeans
+# ml-basic-KMeans
 
 # Pre-face
 Hoping that my work might help beginners better understand what machine learning is and what can we do with it I decided to put a small explanantion of ML techniques types before some of my machine learning projects.  
