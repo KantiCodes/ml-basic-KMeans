@@ -8,7 +8,7 @@ _At this point feel free to skip to the introduction section._
 ***Data in machine learning***  
 A *sample* is a single row of data in our data set.  
 In machine learning problems we distinguish 2 types of data:
-* Labeled data - here [wikipedia](https://en.wikipedia.org/wiki/Labeled_data) gives a really good explanantion: "Labeled data is a group of samples that have been tagged with one or more labels. Labeling typically takes a set of unlabeled data and augments each piece of it with informative tags. For example, a data label might indicate whether a photo contains a horse or a cow". The features are the columns describing specific sample. By label we the tag that has been assigned to the sample based on features.
+* Labeled data - here [wikipedia](https://en.wikipedia.org/wiki/Labeled_data) gives a really good explanantion: "Labeled data is a group of samples that have been tagged with one or more labels. Labeling typically takes a set of unlabeled data and augments each piece of it with informative tags. For example, a data label might indicate whether a photo contains a horse or a cow". The features are the columns describing specific sample. Label is the tag(can be a both continious value(500,99$) and a discrete value("cat","dog" - members of finite set) that has been assigned to the sample based on features.
 * Unlabeled data - contrary to the labeled data, here we only have features and it is to the machine learning algorithm to cluster(group) simmilar samples together.
 
 ***Machine learning problems can be approached using 3 different methods.***
