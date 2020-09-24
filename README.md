@@ -37,7 +37,7 @@ The iterative naive KMeans (slow version but, giving good intuition behind the a
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif" width="400" height="400"/>
 
-[source](https://commons.wikimedia.org/wiki/File:K-means_convergence.gif)
+[source - wikimedia](https://commons.wikimedia.org/wiki/File:K-means_convergence.gif)
 
 # Requirements
 sklearn  
