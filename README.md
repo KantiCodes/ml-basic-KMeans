@@ -33,7 +33,7 @@ The most common similarity metric is squared Euclidean  Distance.
 
 **The iterative naive KMeans (slow version but, giving good intuition behind the algorithm):**  
 ***Step one*** for all of the _samples_ assign them to the cluster which squared eucledian distance is the lowest  
-***Step two*** for all clusters, assign it to mean of samples belonging to that cluster  
+***Step two*** for all cluster centroids, assign them to the mean of samples belonging to that cluster  
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif" width="400" height="400"/>
 
