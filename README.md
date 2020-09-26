@@ -24,7 +24,7 @@ In machine learning problems we distinguish 2 types of data:
 _Feel free to merge request better definition_.
 
 # Introduction
-This repository presents step by step usage of [KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html#sklearn.cluster.KMeans) algorithm from [sklearn](https://scikit-learn.org/stable/) library. I am going to first show how to cluster the data assuming the number of cluster on a guess and then present [***Elbow Technique***](https://en.wikipedia.org/wiki/Elbow_method_(clustering)#:~:text=In%20cluster%20analysis%2C%20the%20elbow,number%20of%20clusters%20to%20use) used to determine right number of clusters.
+This repository presents step by step usage of [KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html#sklearn.cluster.KMeans) algorithm from [sklearn](https://scikit-learn.org/stable/) library using python in [jupyter notebook](https://jupyter.org/) (open source scientific tool supporting many languages). I am going to first show how to cluster the data assuming the number of cluster on a guess and then present [***Elbow Technique***](https://en.wikipedia.org/wiki/Elbow_method_(clustering)#:~:text=In%20cluster%20analysis%2C%20the%20elbow,number%20of%20clusters%20to%20use) used to determine right number of clusters.
 
 # KMeans intuition / naive KMeans
 KMeans is an unsupervised clustering method that clusters the data based on the similarity between the samples. 
@@ -40,5 +40,7 @@ The most common similarity metric is squared Euclidean  Distance.
 [source - wikimedia](https://commons.wikimedia.org/wiki/File:K-means_convergence.gif)
 
 # Requirements
+python 3.6+
+jupyter notebook
 sklearn  
 matplotlib
