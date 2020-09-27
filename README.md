@@ -40,7 +40,7 @@ The most common similarity metric is squared Euclidean  Distance.
 [source - wikimedia](https://commons.wikimedia.org/wiki/File:K-means_convergence.gif)
 
 # Requirements
-python 3.6+
-jupyter notebook
+python 3.6+  
+jupyter notebook  
 sklearn  
 matplotlib
