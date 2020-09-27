@@ -12,7 +12,7 @@ In machine learning problems we distinguish 2 types of data:
 * Unlabeled data - contrary to the labeled data, here we only have the features describing a sample. The tags are not pre-assigned but instead the algorithm we are using, is going to come up with reasonable clusters of the data.
 
 ***Machine learning problems can be approached using 3 different methods.***
-* Supervised learning - deals with labeled. Having input data ***_X_*** and some output data ***_Y_***, we want to find parameters ***_θ_*** of the function ***_f_*** such that ***_X_ *  _θ_ ≈ _f_*** 
+* Supervised learning - deals with labeled. Having input data ***_X_*** and some output data ***_Y_***, we want to find parameters ***_θ_*** of the function ***_f_*** such that ***_X_ *  _θ_ ≈ _f_***  
 ***Example:*** could be the famous [titanic survival classification](https://www.kaggle.com/c/titanic) or [house price prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). Algortithm uses the data set to learn how location, size, number of rooms impact the price of the house. Afterwards it can be used to predict unknown price of the house using its features(size, location, number of rooms etc.)
 
 * Unsupervised learning - delas with unlabeled data. This technique determines similarities/patterns between certain samples and then clusters simmilar samples together.  
