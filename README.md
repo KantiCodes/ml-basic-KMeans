@@ -15,7 +15,7 @@ In machine learning problems we distinguish 2 types of data:
 * Supervised learning - deals with labeled. Having input data ***_X_*** and some output data ***_Y_***, we want to find parameters ***_θ_*** of the function ***_f_*** such that ***_X_ *  _θ_ ≈ _f_***  
 ***Example:*** could be the famous [titanic survival classification](https://www.kaggle.com/c/titanic) or [house price prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). Algortithm uses the data set to learn how location, size, number of rooms impact the price of the house. Afterwards it can be used to predict unknown price of the house using its features(size, location, number of rooms etc.)
 
-* Unsupervised learning - delas with unlabeled data. This technique determines similarities/patterns between certain samples and then clusters simmilar samples together.  
+* Unsupervised learning - deals with unlabeled data. This technique determines similarities/patterns between certain samples and then clusters simmilar samples together.  
 ***Example:*** Song recommendation system based on liked songs- to make a recommendation algorithm would first determine a cluster to which an user belong. Then the algorithm would use favorite songs of different users from that cluster as recommendations.
 
 * Reinforcement learning - Deals with rewards systems such as winning video games, reducing traffic problems. The agent is an entity being able to modify enviroment - in a game it could for example move our characters, or make it perform certain actions. The agent is supposed to undertake actions in such way that the reward function is maximized. The reward function for example could be the distance our character had covered in Mario Bros.
